@@ -10,7 +10,9 @@ Skills: Python/Flask/My SQL
 - 🌱 I’m currently learning new technologies related to Data Engineering & Data Analytics. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/khalid-Ibne-Hussain)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/khalid-tuhin/)  
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khalid-Ibne-Hussain&show_icons=true)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/khalid-tuhin/)  
 
