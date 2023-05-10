@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Khalid Ibne Hussain
-#### I am a self taught data science enthusiast.
+#### I am a self taught web development enthusiast.
 ![I am a self taught data science enthusiast.](https://media-exp1.licdn.com/dms/image/C5616AQHtrd0iu5Pvdg/profile-displaybackgroundimage-shrink_200_800/0/1660540612099?e=1666224000&v=beta&t=VE5KvZ15_C5_S-PB4p9OWjQ8ECtHp4ROPSfLS7gPxQA)
 
 Learning Data Engineering & Data Analytics tools.
