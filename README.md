@@ -2,7 +2,7 @@
 #### I am a self-taught web development enthusiast.
 
 
-Learning Web Development tools.
+Learning Web Development.
 
 Skills: HTML/CSS/Bootstrap/Tailwind/JS/Python/MongoDB/My SQL
 
