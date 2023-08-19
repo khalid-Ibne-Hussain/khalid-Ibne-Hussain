@@ -3,8 +3,9 @@
 
 
 Learning Web Development.
+Portfolio Link: https://khalid-portfolio-115a8.web.app/
 
-Skills: HTML/CSS/Bootstrap/Tailwind/JS/Python/MongoDB/My SQL
+Skills: HTML/CSS/Bootstrap/Tailwind/JS/React/Redux/Python/MongoDB/My SQL
 
 - 🔭 I’m currently working on preparing myself for the software industry. 
 - 🌱 I’m currently learning new technologies related to Software Engineering & Data Science. 
