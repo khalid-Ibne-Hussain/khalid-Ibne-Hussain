@@ -16,10 +16,10 @@ Skills: HTML/CSS/Bootstrap/Tailwind/JS/React/Redux/Python/MongoDB/My SQL
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Ibne-Hussain&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khalid-Ibne-Hussain&show_icons=true)  
 
+### Reward
 [![An image of @khalidibnehussain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khalidibnehussain)](https://holopin.io/@khalidibnehussain)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/khalid-tuhin/)  
 
 ## Languages, Style, Markup
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
